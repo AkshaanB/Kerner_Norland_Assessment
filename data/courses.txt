@@ -1,0 +1,24 @@
+Our institution offers a wide range of programs:
+
+1. Diploma in Data Science
+   - Duration: 12 months
+   - Mode: Online + Weekend Labs
+   - Key Topics: Python, Machine Learning, Statistics, Big Data
+   - Certification: Industry recognized diploma
+
+2. Certificate in Digital Marketing
+   - Duration: 6 months
+   - Mode: Online
+   - Key Topics: SEO, Google Ads, Social Media Marketing
+   - Internship: 2-month optional placement
+
+3. Bachelor of Business Administration (BBA)
+   - Duration: 3 years
+   - Mode: On-campus
+   - Key Topics: Management, Finance, Marketing, HR
+   - Specialization: International Business
+
+4. English Language Proficiency Course
+   - Duration: 3 months
+   - Mode: Online & Evening Classes
+   - Level: Beginner to Advanced
